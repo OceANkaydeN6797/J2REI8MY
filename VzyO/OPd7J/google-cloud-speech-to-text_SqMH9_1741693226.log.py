@@ -7,7 +7,6 @@ pool = Pool(8) # Number of concurrent threads
 with open("api-key.json") as f:
     GOOGLE_CLOUD_SPEECH_CREDENTIALS = f.read()
 
-r = sr.Recognizer()
 files = sorted(os.listdir('parts/'))
 
 def transcribe(data):
