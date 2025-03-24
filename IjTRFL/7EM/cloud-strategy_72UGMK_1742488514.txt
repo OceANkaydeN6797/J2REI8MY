@@ -10,7 +10,6 @@ find_package(PCL REQUIRED)
 include_directories(${PCL_INCLUDE_DIRS})
 add_definitions(${PCL_DEFINITIONS} -D_EXPORTING; -D_CRT_SECURE_NO_WARNINGS;  -DPCL_NO_PRECOMPILE)
 link_directories(${PCL_LIBRARIES})
-
 FIND_PACKAGE( OpenMP REQUIRED)
 if(OPENMP_FOUND)
 message("OPENMP FOUND")
