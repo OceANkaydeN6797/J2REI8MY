@@ -349,7 +349,6 @@
             </Configuration>
             <Annotation DisplayMode="0">
               <Name />
-              <DefaultAnnotationText>Settings=[Field1]+[Engine.ModuleDirectory]+'Macros'</DefaultAnnotationText>
               <Left value="False" />
             </Annotation>
             <MetaInfo connection="Output">
