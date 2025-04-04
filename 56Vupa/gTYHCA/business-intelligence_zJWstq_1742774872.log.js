@@ -114,7 +114,6 @@ module.exports = [
     rules: {
       '@grafana/no-untranslated-strings': [
         'error',
-        {
           forceFix: [
             // Add paths here that are happy to be auto fixed by this rule,
             // for example
