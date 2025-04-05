@@ -146,7 +146,6 @@ Template for next version
 - improved german translation (https://github.com/ohmyform/ui/pull/28)
 - colors for landing page buttons
 - menu selection type
-- upgraded dependencies
 
 ## [0.9.6] - 2020-07-17
 
