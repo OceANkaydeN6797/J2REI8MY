@@ -23,7 +23,6 @@ def get_filenames_from_subfolder(resource, bucket, subfolder_name):
     for object_summary in bucket_obj.objects.filter(Prefix = subfolder_name):
         filepath_list.append(object_summary.key)
     return filepath_list
-
 """
     Accessing data and creating dataframe from S3 bucket.
     
