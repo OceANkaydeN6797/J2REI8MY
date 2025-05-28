@@ -94,7 +94,6 @@ def train_validation_test_split(subfolders, resource, bucket):
     
     @param section_of_data: list of either training, validation, or test files
     @param node: number of nodes in topology
-    @param bucket: S3 bucket object
     @param client: S3 client object
     @param resource: S3 resource object
     @return concatenated dataset for that particular node
