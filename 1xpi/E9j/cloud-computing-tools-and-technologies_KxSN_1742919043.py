@@ -5,7 +5,6 @@ from io import StringIO
 from sagemaker import get_execution_role
 
 """
-    Author: Shilpa Kancharla
     Last Modified: December 9, 2021
 """
 
