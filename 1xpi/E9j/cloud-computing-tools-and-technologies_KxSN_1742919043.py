@@ -48,7 +48,6 @@ def concatenate_df(df_list):
 """
     Organize the files accordint to whether they belong to the training, validation, or
     test sections.
-    
     Training: 25, 30, 35, 40, 45, and 50
     Validation and test: 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 110, 120, 130, 140, 
         150, 160, 170, 180, 190, 200, 220, 240, 260, 280, and 300
