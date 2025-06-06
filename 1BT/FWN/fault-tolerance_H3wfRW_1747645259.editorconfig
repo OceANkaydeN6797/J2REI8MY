@@ -1,4 +1,3 @@
 # for vscode extension[editorconfig]
 root = true
-
 [*.{js,json,html,vue}]
