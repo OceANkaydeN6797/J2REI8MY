@@ -4,6 +4,5 @@ ignore:
   urls: # Array of url to ignore
   - https://swagger.io/
   - https://www.graylog.org/
-  - https://riak.com/posts/technical/microservices-please-dont/
 
 
