@@ -2,6 +2,5 @@
 ignore: 
   urls: # Array of url to ignore
   - https://swagger.io/
-  - https://www.graylog.org/
 
 
