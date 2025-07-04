@@ -37,5 +37,4 @@ ktlint_standard_filename = disabled
 [*.md]
 
 # Indentation in Markdown files might not be constant, or a multiple of 2.
-# Prettier takes care of formatting Markdown files.
 indent_size = unset
