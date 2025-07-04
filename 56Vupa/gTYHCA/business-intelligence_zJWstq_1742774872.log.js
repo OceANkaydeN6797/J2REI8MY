@@ -69,7 +69,6 @@ module.exports = [
     linterOptions: {
       // This reports unused disable directives that we can clean up but
       // it also conflicts with the betterer eslint rules so disabled
-      reportUnusedDisableDirectives: false,
     },
   },
   {
