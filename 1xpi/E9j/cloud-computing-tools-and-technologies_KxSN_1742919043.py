@@ -63,7 +63,6 @@ def train_validation_test_split(subfolders, resource, bucket):
     training_nodes = [25, 30, 35, 40, 45, 50]
     val_test_nodes = [55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 110, 120, 130, 140, 
                         150, 160, 170, 180, 190, 200, 220, 240, 260, 280, 300]
-    training_files = []
     validation_files = []
     test_files = []
     
