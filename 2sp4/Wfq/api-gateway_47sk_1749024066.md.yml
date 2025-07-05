@@ -1,5 +1,4 @@
 build:
-  main: cmd/up/main.go
   binary: up
   goos:
     - darwin
