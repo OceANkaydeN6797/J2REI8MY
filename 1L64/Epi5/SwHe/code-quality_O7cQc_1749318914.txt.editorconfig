@@ -35,6 +35,5 @@ indent_size = 4
 ktlint_standard_filename = disabled
 
 [*.md]
-
 # Indentation in Markdown files might not be constant, or a multiple of 2.
 indent_size = unset
